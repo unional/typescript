@@ -18,7 +18,7 @@
   "devDependencies": {
     "prettier": "^3.0.0",
     "prettier-plugin-astro": "^0.14.0",
-    "turbo": "^1.7.4"
+    "turbo": "^2.0.0"
   },
   "packageManager": "pnpm@9.10.0"
 }
